@@ -1,4 +1,4 @@
-# Object-Oriented-Programming-Course-Project
+# Object-Oriented-Programming-Course
 Exercises and solutions of the course: Object Oriented Programming, course code: 83223, 2020  
 Final course project is added as well  
 Written by: Ido Sar Shalom
